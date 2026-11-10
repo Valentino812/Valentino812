@@ -1,5 +1,3 @@
-# 👋 Hello, I'm a
-
 🎓💻 Final-year Informatics Engineering student focused on **Data Science** and **Software Development**.
 
 Passionate about building software, working with data, and exploring how machine learning can solve real-world problems. I combine data-driven approaches with hands-on software engineering to turn ideas into practical solutions.
