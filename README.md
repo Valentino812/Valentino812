@@ -1,4 +1,4 @@
-# 👋 Hi, I'm an Informatics Engineering Student!
+# 👋 Hello, I'm a
 
 🎓💻 Final-year Informatics Engineering student focused on **Data Science** and **Software Development**.
 
